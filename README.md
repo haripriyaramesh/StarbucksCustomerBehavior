@@ -11,6 +11,7 @@ This project aims to analyze customer behavior on the Starbucks rewards mobile a
 - [Data](#data)
 - [Tasks](#tasks)
 - [Dependencies](#dependencies)
+- [Acknowledgements](#acknowledgements)
 - [License](#license)
 
 ## Installation
@@ -52,6 +53,14 @@ The dataset comprises three files:
 - Matplotlib 3.3.4
 - Seaborn 0.11.1
 - Scikit-learn 0.24.1
+
+## Acknowledgements
+
+This project was completed as part of the Udacity Data Science Nanodegree. The dataset used in this project contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Starbucks® Rewards program: Starbucks Coffee Company.
+
+## Analysis and Results 
+
+Results are analyzed in this [Medium blog post](https://medium.com/@haripriya.ramesh1996/unraveling-starbucks-customer-behavior-a-data-science-journey-65220bd4aad1)
  
  ## License
 
