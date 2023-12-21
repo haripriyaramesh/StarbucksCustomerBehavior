@@ -20,7 +20,7 @@ This project aims to analyze customer behavior on the Starbucks rewards mobile a
 ### Prerequisites
 
 - Jupyter Notebook
-- Python 3.x
+- Python 3
 - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn (Install via pip if not already installed)
 
 ## Usage
