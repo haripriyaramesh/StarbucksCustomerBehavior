@@ -12,6 +12,7 @@ This project aims to analyze customer behavior on the Starbucks rewards mobile a
 - [Tasks](#tasks)
 - [Dependencies](#dependencies)
 - [Acknowledgements](#acknowledgements)
+- [Analysis and Results](#AnalysisandResults)
 - [License](#license)
 
 ## Installation
